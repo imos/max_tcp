@@ -1,0 +1,12 @@
+[package]
+name = "max_tcp"
+version = "0.1.0"
+authors = ["imos <imos@github.com>"]
+
+[dependencies]
+mio = "0.6"
+getopts = "0.2"
+env_logger = "0.5.2"
+log = "0.4.0"
+rand = "0.4"
+lazy_static = "1.0"
